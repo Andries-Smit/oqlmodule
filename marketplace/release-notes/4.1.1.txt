@@ -1,0 +1,1 @@
+We included the "CsvAsTable" widget which was missing in version 4.1.0.

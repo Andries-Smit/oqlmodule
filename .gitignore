@@ -15,7 +15,6 @@
 /vendorlib
 /userlib
 /*.mpk
-!/CSVAsTable.mpk
 /.classpath
 /.project
 /*.lock

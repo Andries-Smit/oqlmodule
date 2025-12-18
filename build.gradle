@@ -26,7 +26,7 @@ mxMarketplace {
     filterWidgets = false
     filterRequiredLibs = true
     appDirectory      = "."
-    includeFiles  = List.of(ossClearanceFile, licenseFile)
+    includeFiles  = List.of(ossClearanceFile, licenseFile, CsvAsTableWidgetFile)
     versionPathPrefix = "__Version " // the path prefix within the module to the version folder
 }
 
